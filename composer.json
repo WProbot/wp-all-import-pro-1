@@ -1,0 +1,16 @@
+{
+  "name": "gertboer/wp-all-import-pro",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/GertBoer/wp-all-import-pro.git",
+  "authors": [
+    {
+      "name": "WP All Import",
+      "homepage": "http://www.wpallimport.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
